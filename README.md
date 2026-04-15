@@ -3,8 +3,8 @@
 Aplicación Java que gestiona una base de datos de clientes usando SQLite mediante el patrón **DAO (Data Access Object)**.
 
 ---
-## 📁 Estructura del proyecto---
-
+## 📁 Estructura del proyecto
+---
 ## 🗃️ Base de datos
 
 Se usa **SQLite** con una base de datos local llamada `clientes.db`.
